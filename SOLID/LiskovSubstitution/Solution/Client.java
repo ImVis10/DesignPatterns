@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /** LISKOV SUBSTITUTION  principle says: All the child classes should be able to substitute each other without breaking the code 
- * More Formal definition: If class B is a subclass of class A, then we should be able to replace object of A with B without breaking the behaviour of the program.
+    * More Formal definition: If class B is a subclass of class A, then we should be able to replace object of A with B without breaking the behaviour of the program.
 */
 
 public class Client {
