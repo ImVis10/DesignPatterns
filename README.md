@@ -5,4 +5,5 @@ To see in practicality how the design patterns are used.
 - [x] Strategy Pattern
 - [x] Observer Pattern
 - [x] Decorator Pattern
-- [ ] Factory Pattern
+- [x] Factory Pattern
+- [ ] Abstract Factory Pattern
