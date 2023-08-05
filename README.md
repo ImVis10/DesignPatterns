@@ -11,3 +11,4 @@ Solution section includes how the problem is solved using a certain design patte
 - [x] Factory Pattern
 - [x] Abstract Factory Pattern
 - [x] Proxy Pattern
+- [x] Null Object Pattern
